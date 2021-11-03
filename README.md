@@ -3,10 +3,10 @@ Learning HTML and CSS
 
 # Kelas ini terdiri dari
 
-> 12 Topik
-> 52 Modul
-> 13 Quiz
-> Sertifikat
+- 12 Topik
+- 52 Modul
+- 13 Quiz
+- Sertifikat
 
 - [HTML](HTML)
 
